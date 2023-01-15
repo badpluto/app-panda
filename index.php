@@ -1,5 +1,5 @@
 <?php
-
+//this test file for init github repo
 for ($i = 4; $i <= 28; $i++) {
     $t = $i + 2;
     echo 't =' . $t . '  y= ' . (int)(2 * $i * $i + 5.5 / $i - 2) . '<br>';
